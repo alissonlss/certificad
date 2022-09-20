@@ -60,11 +60,6 @@ body {
   border-radius: 100px;
 }
 
-.tema .tema-icon {
-  width: 36px;
-  height: 36px;
-}
-
 .portfolio {
   margin-top: 32px;
   display: grid;

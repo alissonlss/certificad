@@ -1,0 +1,130 @@
+@media screen and (max-width: 665px){
+    html{
+      font-size: 40%;
+    }
+  
+    .perfil-foto {
+      border-radius: 230px;
+      max-height: 100px;
+      border: 3px solid #005580;
+    }
+  
+    .tema button{
+      padding: 4px 8px;
+    }
+  
+    .conquistas img {
+      max-height: 60px;
+    } 
+  
+    .contato {
+      width: 30px;
+      height: 30px;
+    }
+  }
+  
+  
+  @media screen and (max-width: 400px){
+    html{
+      font-size: 36%;
+    }
+  
+    .perfil-foto {
+      border-radius: 200px;
+      max-height: 70px;
+      border: 2px solid #005580;
+    }
+  
+    .tema button{
+      padding: 3px 6px;
+    }
+  
+    .portfolio {
+      grid-template-columns: none;
+    }
+  
+    .conquistas {
+      height: 200px;
+    }
+  
+    .contato {
+      width: 26px;
+      height: 26px;
+    }
+  }
+  
+  @media screen and (max-width: 300px){
+    html{
+      font-size: 25%;
+    }
+  
+    .perfil-foto {
+      border-radius: 160px;
+      max-height: 50px;
+    }
+  
+    .tema button{
+      padding: 2px 4px;
+    }
+    
+    .conquistas {
+      height: 150px;
+    }
+  
+    .conquistas img {
+      max-height: 35px;
+    }
+  }
+  
+  @media screen and (max-width: 190px){
+    html{
+      font-size: 20%;
+    }
+  
+    .perfil-foto {
+      border-radius: 120px;
+      max-height: 40px;
+      border: 1px solid #005580;
+    }
+  
+    .tema button{
+      padding: 1px 2px;
+    }
+    
+    .conquistas {
+      height: 100px;
+    }
+  
+    .conquistas img {
+      max-height: 25px;
+    }
+  
+    .contato {
+      width: 15px;
+      height: 15px;
+    }
+  }
+  
+  @media screen and (max-height: 600px){
+    body {
+      margin-bottom: 25%;
+    }
+  }
+  
+  @media screen and (max-height: 450px){
+    body {
+      margin-bottom: 40%;
+    }
+  }
+  
+  @media screen and (max-height: 350px){
+    body {
+      margin-bottom: 60%;
+    }
+  }
+  
+  @media screen and (min-height: 800px){
+    body {
+      margin-bottom: 5%;
+    }
+  }
